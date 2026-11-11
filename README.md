@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-live.svg" width="100%" alt="Живой бело-розовый аниме-баннер HeckerTyan: героиня с зайцем, летящие лепестки и мерцающие звёзды" />
+<img src="./assets/banner-live.gif" width="100%" alt="Живой бело-розовый аниме-баннер HeckerTyan: героиня с зайцем, летящие лепестки и мерцающие звёзды" />
 
 <br />
 
@@ -36,7 +36,7 @@
 ### 02 &nbsp; В арсенале
 
 <p align="center">
-  <img src="./assets/languages.svg" width="840" alt="C / C++, ASM, Rust, Go, Python, Java, Kotlin, C#, JavaScript, TypeScript, SQL и Bash — иконки в бело-розовой палитре" />
+  <img src="./assets/languages-all.svg" width="840" alt="Все 23 языка и технологии: C++, ASM, Java, Rust, JavaScript, TypeScript, SQL, C, C#, PHP, Python, CSS, HTML, Go, Kotlin, Bash, Visual Basic, Basic, GLSL, Lua, Ruby, Swift и R" />
 </p>
 
 <!-- Language logos: Devicon (MIT). See assets/DEVICON-LICENSE.txt. -->
