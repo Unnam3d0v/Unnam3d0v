@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64" role="img" aria-labelledby="title desc">
+  <title id="title">Code. Anime. Repeat.</title>
+  <desc id="desc">Три бело-розовые плашки с нежными розовыми акцентами.</desc>
+  <g fill="#fff3f7" stroke="#e8bccd">
+    <rect x="8" y="8" width="196" height="48" rx="24"/>
+    <rect x="222" y="8" width="196" height="48" rx="24"/>
+    <rect x="436" y="8" width="196" height="48" rx="24"/>
+  </g>
+  <g font-family="Verdana, DejaVu Sans, sans-serif" font-size="13" letter-spacing="3" text-anchor="middle">
+    <text x="112" y="37" fill="#9c4466">CODE</text>
+    <text x="326" y="37" fill="#9c4466">ANIME</text>
+    <text x="540" y="37" fill="#9c4466">REPEAT</text>
+  </g>
+  <g>
+    <circle cx="42" cy="32" r="3" fill="#bf6287"/>
+    <path d="m255 26 2 4 4 2-4 2-2 4-2-4-4-2 4-2z" fill="#bf6287"/>
+    <path d="M470 37l-5-5c-4-5 2-9 5-5 3-4 9 0 5 5z" fill="#bf6287"/>
+  </g>
+</svg>
