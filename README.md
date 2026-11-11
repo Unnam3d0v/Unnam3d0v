@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Бело-розовый аниме-баннер HeckerTyan: светловолосая героиня с чёрными бантами обнимает плюшевого зайца" />
+<img src="./assets/banner-live.svg" width="100%" alt="Живой бело-розовый аниме-баннер HeckerTyan: героиня с зайцем, летящие лепестки и мерцающие звёзды" />
 
 <br />
 
@@ -35,15 +35,26 @@
 
 ### 02 &nbsp; В арсенале
 
-<p>
-  <code>C / C++</code> &nbsp; <code>ASM</code> &nbsp; <code>Rust</code> &nbsp; <code>Go</code>
+<p align="center">
+  <img src="./assets/languages.svg" width="840" alt="C / C++, ASM, Rust, Go, Python, Java, Kotlin, C#, JavaScript, TypeScript, SQL и Bash — иконки в бело-розовой палитре" />
 </p>
-<p>
-  <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>Kotlin</code> &nbsp; <code>C#</code>
-</p>
-<p>
-  <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>SQL</code> &nbsp; <code>Bash</code>
-</p>
+
+<!-- Language logos: Devicon (MIT). See assets/DEVICON-LICENSE.txt. -->
+
+<br />
+
+### 03 &nbsp; GitHub в цифрах
+
+<div align="center">
+
+<a href="https://github.com/Unnam3d0v?tab=overview">
+  <img src="https://github-stats-extended.vercel.app/api?username=Unnam3d0v&amp;show_icons=true&amp;hide_rank=true&amp;title_color=9c4466&amp;icon_color=bf6287&amp;text_color=7d5363&amp;bg_color=fff3f7&amp;border_color=e8bccd&amp;border_radius=18&amp;locale=ru&amp;card_width=520&amp;disable_animations=true&amp;custom_title=GitHub%20%E2%99%A1%20HeckerTyan" width="520" alt="Статистика GitHub Unnam3d0v: звёзды, коммиты, pull requests, issues и вклад в репозитории" />
+</a>
+
+<br />
+<sub>Открытая активность · обновляется автоматически</sub>
+
+</div>
 
 <br />
 
